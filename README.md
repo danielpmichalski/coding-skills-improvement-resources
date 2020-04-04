@@ -1,2 +1,2 @@
-# coding-skills-improvement-resources
-A catalog of resources for coding skills improvement.
+# Catalog of resources for coding skills improvements
+
