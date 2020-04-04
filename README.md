@@ -1,2 +1,2 @@
-# Catalog of resources for coding skills improvements
+# Coding skills improvements tools
 
