@@ -1,4 +1,4 @@
-# Coding skills improvements tools
+# Coding skills improvement tools
 ## Programming games
 - Codewars - https://www.codewars.com/
 - CodinGame - https://www.codingame.com/home
