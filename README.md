@@ -5,6 +5,7 @@
 - Robocode - https://robocode.sourceforge.io/
 - Gladiabots - AI Combat Arena - https://gladiabots.com/
 - VIM Adventures - https://vim-adventures.com/
+- KataCoda - https://www.katacoda.com/
 
 ## Logic and automation games
 - Factorio - https://www.factorio.com/
