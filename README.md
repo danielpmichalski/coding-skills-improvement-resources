@@ -1,10 +1,10 @@
 # Coding skills improvement tools
 ## Online learning platforms
 ### Free of charge
-- [KataCoda|https://www.katacoda.com/]
+- KataCoda - https://www.katacoda.com/
 ### $$$
 - https://egghead.io/
-- https://frontendmasters.com/
+- Frontend Masters - https://frontendmasters.com/
 
 ## Programming games
 - Codewars - https://www.codewars.com/
