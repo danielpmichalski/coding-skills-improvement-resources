@@ -6,6 +6,7 @@
 - Gladiabots - AI Combat Arena - https://gladiabots.com/
 - VIM Adventures - https://vim-adventures.com/
 - KataCoda - https://www.katacoda.com/
+- https://egghead.io/
 
 ## Logic and automation games
 - Factorio - https://www.factorio.com/
