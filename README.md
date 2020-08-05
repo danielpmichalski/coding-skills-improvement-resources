@@ -3,6 +3,7 @@
 ### Free of charge
 - KataCoda - https://www.katacoda.com/
 ### $$$
+- https://www.codecademy.com/
 - https://egghead.io/
 - Frontend Masters - https://frontendmasters.com/
 
