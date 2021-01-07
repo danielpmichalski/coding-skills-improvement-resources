@@ -1,4 +1,8 @@
-# Coding skills improvement tools
+# Coding skills improvement resources
+## Books
+### Free of charge
+- Open Textbook Library - https://open.umn.edu/opentextbooks/
+
 ## Online learning platforms
 ### Free of charge
 - KataCoda - https://www.katacoda.com/
