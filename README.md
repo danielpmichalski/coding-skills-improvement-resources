@@ -10,6 +10,7 @@
 - https://www.codecademy.com/
 - https://egghead.io/
 - Frontend Masters - https://frontendmasters.com/
+- https://instruqt.com/ - The Next Generation Hands-on Virtual IT Labs for Software Adoption
 
 ## Programming games
 - Codewars - https://www.codewars.com/
