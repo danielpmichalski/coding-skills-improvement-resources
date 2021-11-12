@@ -19,6 +19,7 @@
 - Gladiabots - AI Combat Arena - https://gladiabots.com/
 - VIM Adventures - https://vim-adventures.com/
 - SoloLearn - https://www.sololearn.com/
+- Sphere Online Judge (SPOJ) - https://www.spoj.com/
 
 ## Logic and automation games
 - Factorio - https://www.factorio.com/
