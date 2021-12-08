@@ -20,6 +20,7 @@
 - VIM Adventures - https://vim-adventures.com/
 - SoloLearn - https://www.sololearn.com/
 - Sphere Online Judge (SPOJ) - https://www.spoj.com/
+- CodeGym - https://codegym.cc
 
 ## Logic and automation games
 - Factorio - https://www.factorio.com/
