@@ -22,6 +22,9 @@
 - Sphere Online Judge (SPOJ) - https://www.spoj.com/
 - CodeGym - https://codegym.cc
 
+## DevOps learning resources
+- Kode Kloud - https://kodekloud.com/
+
 ## Logic and automation games
 - Factorio - https://www.factorio.com/
 
