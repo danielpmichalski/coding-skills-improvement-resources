@@ -11,6 +11,7 @@
 - https://egghead.io/
 - Frontend Masters - https://frontendmasters.com/
 - https://instruqt.com/ - The Next Generation Hands-on Virtual IT Labs for Software Adoption
+- Scrimba - https://scrimba.com/
 
 ## Programming games
 - Codewars - https://www.codewars.com/
