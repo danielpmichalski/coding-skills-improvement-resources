@@ -6,6 +6,7 @@
 ## Online learning platforms
 ### Free of charge
 - KataCoda - https://www.katacoda.com/
+- Thinkster - https://thinkster.io/
 ### $$$
 - https://www.codecademy.com/
 - https://egghead.io/
