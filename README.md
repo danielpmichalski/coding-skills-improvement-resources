@@ -5,7 +5,6 @@
 
 ## Online learning platforms
 ### Free of charge
-- KataCoda - https://www.katacoda.com/
 - Thinkster - https://thinkster.io/
 ### $$$
 - https://www.codecademy.com/
@@ -34,3 +33,6 @@
 
 ## Other resources
 - https://www.makeuseof.com/tag/best-programming-games/
+
+## Obsolete
+- KataCoda - https://www.katacoda.com/
