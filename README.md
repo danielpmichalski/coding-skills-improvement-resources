@@ -14,6 +14,7 @@
 - Scrimba - https://scrimba.com/
 - LeetCode - https://leetcode.com/
 - Replit - https://replit.com/
+- CodeCrafters - https://app.codecrafters.io/
 
 ## Programming games
 - Codewars - https://www.codewars.com/
